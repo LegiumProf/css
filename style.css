@@ -1,0 +1,12 @@
+body {
+    background-color: #f1f1f1;
+    color: #0f141e;
+    font: normal16px 'roboto', 'sans-serif';
+}
+
+.list li{
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+}
+ 
